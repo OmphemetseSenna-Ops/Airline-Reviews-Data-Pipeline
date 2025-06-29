@@ -1,0 +1,414 @@
+SeatType,Route,TypeOfTraveller,CreatedDate,IsCurrent
+Economy Class,Addis Ababa to Lalibela,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Kigali via Juba,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johanesburg to Amman via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Freetown via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Doha to Johannesburg,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to London Gatwick,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Frankfurt,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Toronto to Entebbe via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis to Johannesburg,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Milan to Zanzibar via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Dubai,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Manchester,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kano to Chennai via Addis,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Athens to Zanzibar via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Hong Kong,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Toronto,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Monrovia  to Washington via Addas Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Toronto via Rome,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Nairobi,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Zanzibar via Ethiopia,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington IAD to Johannesburg,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Washington via Lome,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Hong Kong to Copenhagen via Luanda,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tokyo to Seoul,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Atlanta GA to Lusaka Zambia via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Hong Kong to Bangkok,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Accra to Atlanta via Bole,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Chicago to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Antananarivo to Brussels via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Libreville to Frankfurt via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Harar to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Premium Economy,London to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Gatwick via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Kigali via Addis Adaba,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bulawayo to Hamad via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Johannesburg,Business,2025-06-29 05:12:22.560171,True
+Economy Class,New York to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Stockholm to Lusaka via Stockholm,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kuala Lumpur to Nairobi via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Washington to Kigali via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Malabo via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Vienna,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Victoria Falls to London via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Lagos to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Vienna to Kilimanjaro via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Cairo to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Hong Kong to Cape Town via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Stockholm to Zanzibar via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kigali to Chicago via Rome/Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape town to Doha via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Harare to Frankfurt via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bahrain to Johannesburg via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Maputo to Heathrow via Addis amAbaba,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Moscow to Goma,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Brussels via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,London to Mombasa via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Abidjan to New York,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Cape Town,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Milano to Cape Town via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Accra to Singapore via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Manchester to Dar Es Salaam via Addis Abba,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Uganda via Addis,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Lusaka to Copenhagen via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Johannesburg to Dakar via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Shanghai to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tel Aviv to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Cape Town via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Accra to Kinshasa via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Phnom Penh via Bangkok,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Mumbai,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Heathrow to Madagascar via Addis Dabba,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to London,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Cape Town via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bahir Dar to Addis,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Accra to Geneva via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Accra via Lome,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Washington to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Khartoum via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Singapore to Lagos via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Toronto to Dar Es Salaam via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Mahe to Bangkok via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tokyo to Seoul,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Libreville to Cape Town via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Muscat to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Johannesburg via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Chicago via Addis Ababa / Dublin,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape town to Zanzibar via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Abuja to London via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tel Aviv to Mumbai,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Chicago to Dubai via Adis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Bangkok via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Harare via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Toronto,Business,2025-06-29 05:12:22.560171,True
+Economy Class,London to Bulawayo via Addis,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Bangkok,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Buenos Aires to Cairo,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Oslo to Stockholm,Business,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mombasa to Addis via Paris,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Chennai to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Frankfurt to Addis Abeba,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,New York to Delhi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Lomé to New York JFK,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cotonou to Dubai via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Dar Es Salaam,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Abidjan to Bahrain via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Bangkok via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Oslo to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Washington to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Cape Town via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mombasa to Brussels via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Hamburg via Frankfurt,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Johannesburg via Addis Adaba,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Seoul via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Toronto,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Addis Ababa via Cape Town,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Hong Kong,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Vienna to Seychelles via Ethiopia,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Harare via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Milan to Accra via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Incheon to Cape Town via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington DC to Ethiopia,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Paris CDG via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Athens to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,London to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Gaborone to London via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Frankfurt to Zanzibar via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Entebbe to Dubai via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Delhi via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Washington,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Khartoum to Kilimanjaro via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kilimanjaro to Johannesburg via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Entebbe to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Zanzibar via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Geneva,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,"Nosy Be, Madagascar to Boston via Addis Ababa",Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Vienna to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Houston to Zambia,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Milan,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Athens to Sao Paulo via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to London,Business,2025-06-29 05:12:22.560171,True
+Business Class,Dar es Salaam to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Dar es Salam,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Athens to Entebbe via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Dubai via Ethiopia,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kinshasa to London via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Singapore to Cape Town via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Dubai to Zanzibar via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Vienna to Zanzibar via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Stockholm to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Athens via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to London Heathrow,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Tel Aviv via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Frankfurt to Addis Ababa via Lisbon,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Nairobi,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Lagos to Toronto via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Toronto to Lagos via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to London via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Beijing to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Chengdu via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Djibouti to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Lubumbashi via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Buenos Aires to Manila via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to London via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Awasa to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mekele to Khartoum via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Johannesburg,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Nairobi to London Heathrow via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Athens to Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,New York to Abidjan via Lagos,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mahe to Cape Town via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Mombasa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Muscat to Hargeisa via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kuala Lumpur to Singapore,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Hong Kong via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Kigali to Tokyo via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Libreville to Cape Town via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Maputo to Ouagadougou via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Abuja to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Khartoum via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Chicago to Mahe via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Milan to Cape Town via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Seychelles via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Chengdu via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Guarulhos to Tel Aviv via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Washington to Kilimanjaro via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,London to Lilongwe via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Gaborone via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Gaborone via Victoria Falls,Business,2025-06-29 05:12:22.560171,True
+Business Class,Kigali to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Asmara to Geneva via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Paris to Cape Town via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Oslo to Stockholm,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cairo to Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Delhi to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Muscat to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Entebbe via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Hong Kong,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Vienna to Windhoek via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Johannesburg to Stockholm via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Buenos Aires via Addis Ababa / Sao Paulo,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Atlanta,Business,2025-06-29 05:12:22.560171,True
+Business Class,Frankfurt to Juba Via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Mombasa to Kuala Lumpur via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Kuala Lumpur to Nairobi via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Madrid to Cape Town via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Paris to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Frankfurt to Windhoek via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Madrid via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Frankfurt to Kigali via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,London to Johannesburg via Addis,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Harare to Washington via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Chicago via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Sao Paulo to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Newark to Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Kigali via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tokyo to Ouagadougou via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Kuala Lumpur to Singapore,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Singapore to Sao Paulo via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Brussels to Maputo via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Paris,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,São Paulo to Buenos Aires,Business,2025-06-29 05:12:22.560171,True
+Business Class,Zanzibar to London via Addis Abbaba,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Diass to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Mombasa to Toronto via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Buenos Aires to Tel Aviv via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kilimanjaro to Mahe via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Los Angeles to Dublin,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Cape Town,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis to Nairobi,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Mahe via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Beirut via Addis Abbaba,Business,2025-06-29 05:12:22.560171,True
+Business Class,Johannesburg to Riyadh via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Khartoum to Kigali via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Blantyre to Dubai via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Mumbai,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Singapore,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Lome to Newark,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Dar es Salaam to Bangkok via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Vienna to Lusaka via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Dar es Salaam via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Blantyre via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tel Aviv to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Chicago to Botswana via Ethiopia,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Lagos to Newark via Lome,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Nairobi via Addis Adaba,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Delhi to Cape Town via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Blantyre via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,"Enugu to London Heathrow,London via Addis Ababa",Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Khartoum,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Kigali to Addis,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Abidjan to Bangkok via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Stockholm,Business,2025-06-29 05:12:22.560171,True
+Economy Class,London to Blantyre via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Mekele to Dakar via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dar Es salaam to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Frankfurt via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dublin to Los Angeles,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Harare via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Riyadh via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kigali to London via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tel Aviv to Nairobi via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Kiliminjaro via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Lagos to Toronto,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Nairobi to Tel-Aviv. via Addis Abbaba,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Zanzibar via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Brussels to Seychelles via Vienna,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Washington via Dublin,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Oslo to Stockholm,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Los Angeles,Family Leisure,2025-06-29 05:12:22.560171,True
+Business Class,London to Johannesburg via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Dar Es Salaam to Washington via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Tel Aviv to Antananaviro  via Addis ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Toronto to Windhoek via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Durban via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to Dublin via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Antananarivo via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Muscat to Kigali via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Amsterdam to Cape Town via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Frankfurt to Nairobi via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Kigali to Los Angeles via Dublin,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Lilongwe to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to London,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Riyadh to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Tel Aviv via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Los Angeles to Windhoek via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Paris,Business,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Accra via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Singapore to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dubai to Bamako via Addis,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Paris to Johannesburg via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Paris via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Sao Paolo via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kuala Lumpur to Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,DAR to KUL via ADD / BKK,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Harare to Marrakech via Madrid,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Rome to Cape Town via Addis Ababa,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Lagos via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Khartoum via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Business Class,Kinshasa to Bangkok via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Lalibela via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Brussels to Cape Town via CDG/ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Washington to Nairobi via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Cape Town to London via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Frankfurt,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Hong Kong to Tokyo,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Johannesburg via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Hong Kong to Lagos via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,BKK to ACC via ADD,Business,2025-06-29 05:12:22.560171,True
+Business Class,Cape Town to London via Addis Ababa,Business,2025-06-29 05:12:22.560171,True
+Economy Class,FIH to IAD via ADD / DUB,Business,2025-06-29 05:12:22.560171,True
+Business Class,NBO to BOM via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,NBO to ARN via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,KUL to NBO via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LOS to LAX via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DUR to DEL via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DXB to DUR via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,NSI to BKK via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,DXB to CPT via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,JUB to ARN via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,BOM to GRU via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,IAD to BLZ via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,EWR to to DLA via LFW,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,FRA to LLW via ADD / DAR,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,BKK to NSI via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Premium Economy,ABV to LHR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,CPT to LHR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,TLV to GRU via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DEL to NBO via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,ADD to WDH,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DUB to LAX,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,KUL to DAR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to CPT via ADD,Business,2025-06-29 05:12:22.560171,True
+Business Class,MXP to SEZ via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,TLV to FIH via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LAD to HKG via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,ADD to VIE,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,COO to NBO via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,HRE to LHR via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,JNB to ARN via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DUB to LAX,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LAX to DUB,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,BOM to DUR via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LAX to DUB,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,CPT to BKK via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to JNB via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,ADD to NBO,Business,2025-06-29 05:12:22.560171,True
+Economy Class,BOM to KRT via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,BRU to SEZ via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,DUB to LAX,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,JNB to LHR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,ARN to ZNZ via FCO/ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DXB to ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to JNB via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DLA to DAR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,CPT to FCO via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,BOM to MBA via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to ZNZ via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,JNB to DUB via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,JNB to TLV via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to HRE via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,EBB to YYZ via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DUR to JED via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,IAD to EBB via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,ABB to MNL via BKK,Business,2025-06-29 05:12:22.560171,True
+Economy Class,BOM to JNB via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,BKK to KUL,Business,2025-06-29 05:12:22.560171,True
+Economy Class,YYZ to LOS via DUB,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,lax to dub,Solo Leisure,2025-06-29 05:12:22.560171,True
+Business Class,Addis Ababa to Bangkok,Business,2025-06-29 05:12:22.560171,True
+Business Class,BKK to ACC via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Los Angeles to Dublin,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,NBO to DUB via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,JUB to FCO via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Johannesburg to Mumbai via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Cape Town via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,ADD to BKK,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to DUR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to NLA via ADD,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Cape Town,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,CDG to JNB via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Addis Ababa to Manila,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,LHR to ADD,Business,2025-06-29 05:12:22.560171,True
+Business Class,DUB to CPT via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,London to Lagos via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,DXB to ADD via KGL,Couple Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Kochi to Dar es Salaam,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Dulles to Cotonou via Addis Abeba,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,BKK to ADD,Business,2025-06-29 05:12:22.560171,True
+Business Class,Bangkok to Lagos via ADD,Business,2025-06-29 05:12:22.560171,True
+Business Class,LAX to DUB,Business,2025-06-29 05:12:22.560171,True
+First Class,Jeddah to Johannesburg via Addis Ababa,Family Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,IAD to JRO via ADD,Couple Leisure,2025-06-29 05:12:22.560171,True
+Business Class,NBO to LHR via ADD,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Bangkok to Nairobi via Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,Mumbai to Cccra via ADD,Business,2025-06-29 05:12:22.560171,True
+Economy Class,Nairobi to Addis Ababa,Solo Leisure,2025-06-29 05:12:22.560171,True
+Economy Class,FIH to YYZ via ADD,Business,2025-06-29 05:12:22.560171,True

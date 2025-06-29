@@ -1,0 +1,157 @@
+2025-06-29 03:24:31,287 - root - INFO - Starting review scraping process
+2025-06-29 03:24:58,797 - root - INFO - Cleaning and processing scraped data
+2025-06-29 03:24:58,858 - root - INFO - Loading data into data warehouse
+2025-06-29 03:24:58,978 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 03:24:58,984 - root - INFO - Started ETL batch with ID: 1
+2025-06-29 03:24:59,271 - DWConnection - INFO - Inserted 408 new records into dim.Author
+2025-06-29 03:24:59,569 - DWConnection - INFO - Inserted 413 new records into dim.FlightDetails
+2025-06-29 03:24:59,572 - DWConnection - ERROR - Error loading fact data: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name ''SeatType', 'Route', 'TypeOfTraveller''. (207) (SQLExecDirectW)")
+2025-06-29 03:24:59,578 - root - ERROR - No fact records were loaded
+2025-06-29 03:24:59,578 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 03:24:59,579 - root - ERROR - ETL process failed
+2025-06-29 03:31:28,782 - root - INFO - Starting review scraping process
+2025-06-29 03:31:56,644 - root - INFO - Cleaning and processing scraped data
+2025-06-29 03:31:56,717 - root - INFO - Loading data into data warehouse
+2025-06-29 03:31:56,762 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 03:31:56,768 - DWConnection - INFO - Started new ETL batch with ID: 2
+2025-06-29 03:31:56,769 - root - INFO - Started ETL batch with ID: 2
+2025-06-29 03:31:56,796 - DWConnection - INFO - Inserted 0 new records into dim.Author
+2025-06-29 03:31:56,824 - DWConnection - INFO - Inserted 0 new records into dim.FlightDetails
+2025-06-29 03:31:56,825 - DWConnection - INFO - Starting fact load for 444 records in batches of 100
+2025-06-29 03:31:56,838 - DWConnection - INFO - Batch 1: Inserted 0 records (Total: 0)
+2025-06-29 03:31:56,846 - DWConnection - INFO - Batch 2: Inserted 0 records (Total: 0)
+2025-06-29 03:31:56,855 - DWConnection - INFO - Batch 3: Inserted 0 records (Total: 0)
+2025-06-29 03:31:56,864 - DWConnection - INFO - Batch 4: Inserted 0 records (Total: 0)
+2025-06-29 03:31:56,868 - DWConnection - INFO - Batch 5: Inserted 0 records (Total: 0)
+2025-06-29 03:31:56,868 - DWConnection - INFO - Completed fact load. Total records inserted: 0
+2025-06-29 03:31:56,874 - DWConnection - INFO - Completed ETL batch 2 with status: Failed
+2025-06-29 03:31:56,874 - root - ERROR - No fact records were loaded
+2025-06-29 03:31:56,875 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 03:31:56,875 - root - ERROR - ETL process failed
+2025-06-29 03:39:46,140 - root - INFO - Starting review scraping process
+2025-06-29 03:40:16,458 - root - INFO - Cleaning and processing scraped data
+2025-06-29 03:40:16,509 - root - INFO - Loading data into data warehouse
+2025-06-29 03:40:16,553 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 03:40:16,559 - DWConnection - INFO - Started ETL batch with ID: 3
+2025-06-29 03:40:16,560 - root - INFO - Started ETL batch with ID: 3
+2025-06-29 03:40:16,562 - DWConnection - INFO - No new records to insert into dim.Author
+2025-06-29 03:40:16,565 - DWConnection - INFO - No new records to insert into dim.FlightDetails
+2025-06-29 03:40:16,630 - DWConnection - INFO - Batch 1: Inserted 0 records (Total: 0)
+2025-06-29 03:40:16,676 - DWConnection - INFO - Batch 2: Inserted 0 records (Total: 0)
+2025-06-29 03:40:16,721 - DWConnection - INFO - Batch 3: Inserted 0 records (Total: 0)
+2025-06-29 03:40:16,772 - DWConnection - INFO - Batch 4: Inserted 0 records (Total: 0)
+2025-06-29 03:40:16,788 - DWConnection - INFO - Batch 5: Inserted 0 records (Total: 0)
+2025-06-29 03:40:16,794 - DWConnection - INFO - Completed ETL batch 3 with status 'Failed'
+2025-06-29 03:40:16,794 - root - ERROR - No fact records were loaded
+2025-06-29 03:40:16,795 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 03:40:16,795 - root - ERROR - ETL process failed
+2025-06-29 03:45:32,963 - root - INFO - Starting review scraping process
+2025-06-29 03:46:00,448 - root - INFO - Cleaning and processing scraped data
+2025-06-29 03:46:00,491 - root - INFO - Loading data into data warehouse
+2025-06-29 03:46:00,533 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 03:46:00,539 - DWConnection - INFO - Started ETL batch with ID: 1
+2025-06-29 03:46:00,539 - root - INFO - Started ETL batch with ID: 1
+2025-06-29 03:46:00,989 - DWConnection - INFO - Inserted 408 new records into dim.Author
+2025-06-29 03:46:01,479 - DWConnection - INFO - Inserted 413 new records into dim.FlightDetails
+2025-06-29 03:46:01,527 - DWConnection - INFO - Batch 1: Inserted 0 records (Total: 0)
+2025-06-29 03:46:01,568 - DWConnection - INFO - Batch 2: Inserted 0 records (Total: 0)
+2025-06-29 03:46:01,608 - DWConnection - INFO - Batch 3: Inserted 0 records (Total: 0)
+2025-06-29 03:46:01,647 - DWConnection - INFO - Batch 4: Inserted 0 records (Total: 0)
+2025-06-29 03:46:01,667 - DWConnection - INFO - Batch 5: Inserted 0 records (Total: 0)
+2025-06-29 03:46:01,674 - DWConnection - INFO - Completed ETL batch 1 with status 'Failed'
+2025-06-29 03:46:01,674 - root - ERROR - No fact records were loaded
+2025-06-29 03:46:01,675 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 03:46:01,675 - root - ERROR - ETL process failed
+2025-06-29 03:53:59,344 - root - INFO - Starting review scraping process
+2025-06-29 03:54:26,977 - root - INFO - Cleaning and processing scraped data
+2025-06-29 03:54:27,035 - root - INFO - Loading data into data warehouse with transaction support
+2025-06-29 03:54:27,078 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 03:54:27,083 - root - INFO - Started ETL batch with ID: 2
+2025-06-29 03:54:27,110 - DWConnection - INFO - Inserted 0 new records into dim.Author
+2025-06-29 03:54:27,137 - DWConnection - INFO - Inserted 0 new records into dim.FlightDetails
+2025-06-29 03:54:27,140 - DWConnection - ERROR - Error loading fact data: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name ''SeatType', 'Route', 'TypeOfTraveller''. (207) (SQLExecDirectW)")
+2025-06-29 03:54:27,141 - DWConnection - ERROR - Transaction rolled back due to error: Failed to load fact data or no records were loaded
+2025-06-29 03:54:27,141 - root - ERROR - Error during DW loading: Failed to load fact data or no records were loaded
+2025-06-29 03:54:27,145 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 03:54:27,146 - root - ERROR - ETL process failed
+2025-06-29 03:58:22,932 - root - INFO - Starting review scraping process
+2025-06-29 03:58:49,921 - root - INFO - Cleaning and processing scraped data
+2025-06-29 03:58:49,963 - root - INFO - Loading data into data warehouse with transaction support
+2025-06-29 03:58:50,003 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 03:58:50,008 - root - INFO - Started ETL batch with ID: 1
+2025-06-29 03:58:50,281 - DWConnection - INFO - Inserted 408 new records into dim.Author
+2025-06-29 03:58:50,590 - DWConnection - INFO - Inserted 413 new records into dim.FlightDetails
+2025-06-29 03:58:50,592 - DWConnection - ERROR - Error loading fact data: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name ''SeatType', 'Route', 'TypeOfTraveller''. (207) (SQLExecDirectW)")
+2025-06-29 03:58:50,596 - DWConnection - ERROR - Transaction rolled back due to error: Failed to load fact data or no records were loaded
+2025-06-29 03:58:50,597 - root - ERROR - Error during DW loading: Failed to load fact data or no records were loaded
+2025-06-29 03:58:50,601 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 03:58:50,601 - root - ERROR - ETL process failed
+2025-06-29 04:15:12,254 - root - INFO - Starting review scraping process
+2025-06-29 04:15:39,885 - root - INFO - Cleaning and processing scraped data
+2025-06-29 04:15:39,936 - root - INFO - Loading data into data warehouse with transaction support
+2025-06-29 04:15:39,978 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 04:15:39,984 - root - INFO - Started ETL batch with ID: 2
+2025-06-29 04:15:40,257 - DWConnection - INFO - Inserted 408 new records into dim.Author
+2025-06-29 04:15:40,524 - DWConnection - INFO - Inserted 413 new records into dim.FlightDetails
+2025-06-29 04:15:40,561 - DWConnection - INFO - Inserted 0 fact records
+2025-06-29 04:15:40,563 - DWConnection - ERROR - Transaction rolled back due to error: Failed to load fact data or no records were loaded
+2025-06-29 04:15:40,565 - root - ERROR - Error during DW loading: Failed to load fact data or no records were loaded
+2025-06-29 04:15:40,568 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 04:15:40,569 - root - ERROR - ETL process failed
+2025-06-29 04:22:00,188 - root - INFO - Starting review scraping process
+2025-06-29 04:22:00,193 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:00,910 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "HEAD /airline-reviews/ethiopian-airlines/ HTTP/1.1" 200 0
+2025-06-29 04:22:00,916 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:02,255 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/1/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:05,199 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:06,296 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/2/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:09,215 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:10,547 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/3/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:13,165 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:14,410 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/4/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:17,061 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:18,013 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/5/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:21,011 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:21,950 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/6/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:24,729 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.airlinequality.com:443
+2025-06-29 04:22:25,545 - urllib3.connectionpool - DEBUG - https://www.airlinequality.com:443 "GET /airline-reviews/ethiopian-airlines/page/7/?sortby=post_date%3ADesc&pagesize=100 HTTP/1.1" 200 None
+2025-06-29 04:22:27,645 - root - INFO - Cleaning and processing scraped data
+2025-06-29 04:22:27,717 - root - INFO - Loading data into data warehouse
+2025-06-29 04:22:27,762 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 04:22:27,764 - root - ERROR - Date dimension is empty! Please populate dim.Date first
+2025-06-29 04:22:27,766 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 04:22:27,768 - root - ERROR - ETL process failed
+2025-06-29 04:28:27,292 - root - INFO - Starting review scraping process
+2025-06-29 04:28:54,181 - root - INFO - Cleaning and processing scraped data
+2025-06-29 04:28:54,227 - root - INFO - Loading data into data warehouse
+2025-06-29 04:28:54,270 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 04:28:54,272 - root - INFO - Verified date dimension contains 11323 records
+2025-06-29 04:28:54,276 - root - INFO - Started ETL batch with ID: 3
+2025-06-29 04:28:54,520 - DWConnection - INFO - Inserted 408 new records into dim.Author
+2025-06-29 04:28:54,778 - DWConnection - INFO - Inserted 413 new records into dim.FlightDetails
+2025-06-29 04:28:54,794 - DWConnection - ERROR - Transaction rolled back due to error: 'str' object has no attribute 'date'
+2025-06-29 04:28:54,795 - root - ERROR - Error during DW loading: 'str' object has no attribute 'date'
+2025-06-29 04:28:54,798 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 04:28:54,799 - root - ERROR - ETL process failed
+2025-06-29 04:34:31,039 - root - INFO - Starting review scraping process
+2025-06-29 04:35:40,153 - root - INFO - Starting review scraping process
+2025-06-29 04:36:06,722 - root - INFO - Cleaning and processing scraped data
+2025-06-29 04:36:06,833 - root - INFO - Loading data into data warehouse
+2025-06-29 04:36:06,876 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 04:36:06,879 - root - INFO - Verified date dimension contains 11323 records
+2025-06-29 04:36:06,880 - root - ERROR - Error during DW loading: 'DWConnection' object has no attribute 'start_etl_batch'
+2025-06-29 04:36:06,881 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 04:36:06,881 - root - ERROR - ETL process failed
+2025-06-29 04:37:57,631 - root - INFO - Starting review scraping process
+2025-06-29 04:38:24,439 - root - INFO - Cleaning and processing scraped data
+2025-06-29 04:38:24,537 - root - INFO - Loading data into data warehouse
+2025-06-29 04:38:24,581 - DWConnection - INFO - Successfully connected to the data warehouse
+2025-06-29 04:38:24,584 - root - INFO - Verified date dimension contains 11323 records
+2025-06-29 04:38:24,589 - root - INFO - Started ETL batch with ID: 4
+2025-06-29 04:38:24,869 - DWConnection - INFO - Inserted 408 new records into dim.Author
+2025-06-29 04:38:25,138 - DWConnection - INFO - Inserted 413 new records into dim.FlightDetails
+2025-06-29 04:38:29,267 - DWConnection - INFO - Inserted 444 fact records
+2025-06-29 04:38:29,271 - root - INFO - Successfully loaded 444 fact records
+2025-06-29 04:38:29,272 - DWConnection - INFO - Transaction committed successfully
+2025-06-29 04:38:29,273 - DWConnection - INFO - Closed data warehouse connection
+2025-06-29 04:38:29,273 - root - INFO - ETL process completed successfully
