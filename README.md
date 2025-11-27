@@ -21,16 +21,16 @@ Without systematic analysis of customer feedback, the airline:
 
 
 ## DATA ELEMENTS
-###Customer Feedback Data: To measure what is good or bad from the passenger’s perspective.
+### Customer Feedback Data: To measure what is good or bad from the passenger’s perspective.
 Data Elements:
 - Customer overall rating of the flight
 - Ratings of specific service areas:
-+ seat comfort
-+ cabin staff service
-+ food & beverages
-+ inflight entertainment
-+ ground service
-+ value for money
+ - seat comfort
+ - cabin staff service
+ - food & beverages
+ - inflight entertainment
+ - ground service
+ - value for money
 - The customer’s full written review
 - Review title or summary
 - Whether the customer recommends the flight
