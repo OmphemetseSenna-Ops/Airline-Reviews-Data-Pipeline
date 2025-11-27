@@ -99,7 +99,7 @@ Solution:
 
 ## Data Analytics Dash Board Images
 ### Aircraft Customer Satisfaction Summary: Overall Overview
-<img width="1312" height="734" alt="image" src="https://github.com/user-attachments/assets/3d61dbfa-1da6-45fa-912f-ada14026ba67" />
+<img width="1316" height="742" alt="image" src="https://github.com/user-attachments/assets/0acd9ac8-7888-41cc-aa27-ff5d37002bfe" />
 
 
 ## Technical Implementation
