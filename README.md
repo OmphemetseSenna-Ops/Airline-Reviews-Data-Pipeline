@@ -101,6 +101,17 @@ Solution:
 ### Aircraft Customer Satisfaction Summary: Overall Overview
 <img width="1316" height="742" alt="image" src="https://github.com/user-attachments/assets/0acd9ac8-7888-41cc-aa27-ff5d37002bfe" />
 
+### Route Performance Analysis (In-progress)
+<img width="1279" height="713" alt="image" src="https://github.com/user-attachments/assets/b1335211-abd2-407d-a73d-3870659bcb24" />
+
+### Recommendation Service Analysis (In-progress)
+
+### Service Performance Analysis (In-progress)
+
+### KPis (In-progress)
+
+
+## PREDECTIVE MODELS AND RECOMMENDATION SYSTEM MODEL (In-progress)
 
 ## Technical Implementation
 ### Technologies Used:
