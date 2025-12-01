@@ -101,6 +101,10 @@ Solution:
 ### Aircraft Customer Satisfaction Summary: Overall Overview
 <img width="1316" height="742" alt="image" src="https://github.com/user-attachments/assets/0acd9ac8-7888-41cc-aa27-ff5d37002bfe" />
 
+### Risk Arlet For Services
+<img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/191ec26e-0cc9-46e6-8473-b66cbc5df5a0" />
+
+
 ### Route Performance Analysis (In-progress)
 <img width="1279" height="713" alt="image" src="https://github.com/user-attachments/assets/b1335211-abd2-407d-a73d-3870659bcb24" />
 
