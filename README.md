@@ -104,9 +104,11 @@ Solution:
 ### Risk Arlet For Services
 <img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/191ec26e-0cc9-46e6-8473-b66cbc5df5a0" />
 
-
 ### Route Performance Analysis (In-progress)
 <img width="1279" height="713" alt="image" src="https://github.com/user-attachments/assets/b1335211-abd2-407d-a73d-3870659bcb24" />
+
+### Traveller Type Service 
+<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/829d6af0-7e20-483b-ad64-197e2be945db" />
 
 ### Recommendation Service Analysis (In-progress)
 
