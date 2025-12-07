@@ -1,6 +1,6 @@
 # Airline-Reviews-Data-Pipeline
 
-## Problem Statement and Question
+## Problem Statement
 The airline management finds it hard to get useful insights from customer feedback on different review sites. This makes it difficult to find common problems, measure how happy customers are with things like comfort, food, and service, track how performance changes over time, compare with other airlines, and make improvements. The main business problem is that executives want to know what causes low ratings on flights and which parts of the service have the biggest effect on overall customer satisfaction?
 
 ### Impact
@@ -99,22 +99,39 @@ Solution:
 
 ## Data Analytics Dash Board Images
 ### Aircraft Customer Satisfaction Summary: Overall Overview
-<img width="1316" height="742" alt="image" src="https://github.com/user-attachments/assets/0acd9ac8-7888-41cc-aa27-ff5d37002bfe" />
+<img width="1410" height="787" alt="image" src="https://github.com/user-attachments/assets/c13c0f99-e09a-40ee-9b18-e6f8888b3110" />
 
 ### Risk Arlet For Services
-<img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/191ec26e-0cc9-46e6-8473-b66cbc5df5a0" />
+<img width="1407" height="784" alt="image" src="https://github.com/user-attachments/assets/a50526df-7308-43c3-9e61-ca3af3a8ab7b" />
 
 ### Route Performance Analysis (In-progress)
-<img width="1279" height="713" alt="image" src="https://github.com/user-attachments/assets/b1335211-abd2-407d-a73d-3870659bcb24" />
+<img width="1409" height="789" alt="image" src="https://github.com/user-attachments/assets/ca7a1f07-1972-498b-b9ad-101edb83e6ec" />
 
 ### Traveller Type Service 
-<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/829d6af0-7e20-483b-ad64-197e2be945db" />
+<img width="1402" height="748" alt="image" src="https://github.com/user-attachments/assets/07225b7b-75a5-4313-9ca7-44fed35dbdf0" />
+
 
 ### Recommendation Service Analysis (In-progress)
 
 ### Service Performance Analysis (In-progress)
 
 ### KPis (In-progress)
+
+## Statistics Visualisations
+### Distributions
+<img width="1411" height="775" alt="image" src="https://github.com/user-attachments/assets/2c749e24-e38b-48dd-94ce-a7ba5c1fcf27" />
+
+### Probability Distributions
+<img width="1410" height="786" alt="image" src="https://github.com/user-attachments/assets/c2939eac-109b-4b01-9f4f-8ae6f54a58b2" />
+
+
+### Normal Distribution
+<img width="1414" height="791" alt="image" src="https://github.com/user-attachments/assets/8fbb325e-925a-4ecb-914d-5ec1d92ab92c" />
+<img width="1408" height="788" alt="image" src="https://github.com/user-attachments/assets/e6f3244d-36cd-4518-ab52-9fdc121da0e8" />
+
+### Bayesian Model
+<img width="1406" height="780" alt="image" src="https://github.com/user-attachments/assets/6518e702-a02c-43d6-aa83-883442252593" />
+
 
 
 ## PREDECTIVE MODELS AND RECOMMENDATION SYSTEM MODEL (In-progress)
